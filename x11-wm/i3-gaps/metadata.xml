@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>jrickerkc@gmail.com</email>
+	</maintainer>
+	<longdescription>A fork of the i3 window manager with gaps support</longdescription>
+</pkgmetadata>
