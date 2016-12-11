@@ -50,6 +50,11 @@ src_prepare() {
 		#!/bin/sh
 		exec /usr/bin/i3
 	EOF
+	cat <<- EOF> "${T}"/i3-gaps
+		#!/bin/sh
+		exec /usr/bin/i3
+	EOF
+
 }
 
 src_configure() {
